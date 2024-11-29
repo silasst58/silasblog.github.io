@@ -61,7 +61,9 @@ theme = "hugo-blog-awesome"
 [Languages.es.params]
   sitename = "Blog de SIlas"
   defaultColor = "dark"
-  description = "Un espacio para compartir de todo un poco"
+  description = "Soy Silas R, una persona multifacética con intereses variados. Actualmente estoy cursando una Maestría en Artes de Estudios Bíblicos, lo que refleja mi pasión por el aprendizaje profundo y las perspectivas espirituales. En el ámbito profesional, soy desarrollador de software, combinando creatividad y lógica para crear soluciones tecnológicas.
+Además, soy un gran aficionado al software libre, especialmente en el mundo GNU/Linux, porque creo en la filosofía de la colaboración abierta y el acceso equitativo a las herramientas tecnológicas.
+Por último, también soy un escritor casi frustrado, siempre buscando las palabras adecuadas para dar forma a las ideas que rondan mi mente. Este blog es mi forma de canalizar esa pasión y conectar con quienes comparten intereses similares."
   mainSections = ['posts']
   toc = true
   tocOpen = false
