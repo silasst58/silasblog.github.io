@@ -59,9 +59,9 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.es.params]
-  sitename = "Awesome hugo blog"
+  sitename = "Blog de SIlas"
   defaultColor = "dark"
-  description = "Tema Hugo minimalista con soporte para modo claro y oscuro"
+  description = "Un espacio para compartir de todo un poco"
   mainSections = ['posts']
   toc = true
   tocOpen = false
@@ -72,9 +72,9 @@ theme = "hugo-blog-awesome"
 
 [Languages.es.params.author]
   avatar = "avatar.jpg"
-  intro = "Awesome hugo blog"
-  name = "Sidharth R"
-  description = "Un tema Hugo rápido y minimalista con soporte para modo claro y oscuro."
+  intro = "Silas blog"
+  name = "Silas R"
+  description = "Un espacio para compartir de todo un poco"
 
 [Languages.es.params.webmanifest]
   name = "sitename"
