@@ -38,7 +38,7 @@ theme = "hugo-blog-awesome"
 [Languages.es]
   languageName = "Español"
   languageCode = "es"
-  contentDir = "content/es"
+  contentDir = "content"
   weight = 1
 
   [Languages.es.menu]
