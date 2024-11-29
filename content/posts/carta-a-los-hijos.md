@@ -1,7 +1,7 @@
 +++
 title = 'Carta a mis hijos que no conoci.'
 date = 2024-07-12T15:59:02-05:00
-draft= true
+draft= false
 +++
 Queria que supieran cuan emocionados y felices estabamos yo y su madre al saber que ibamos a ser padres en el primer momento en el que vimos la prueba de embarazo casero, Desde ese momento mi vida habia cambiado para siempre, contaba los dias, las semanas para ver como crecian en el vientre de su mamà. Cuando vino la primera ecografia con el doctor, casi me da un ataque de sorpresa al saber que eran dos. Mi mente solo pensaba como ibamos a hacer con los gastos que habria, doble matricula, doble mensualidad, doble ropa, doble comida, doble helado. Hasta que finalmente acepte y mi mente ya empezo a crear ideas y sueños con dos hijos. Escribo todos los verbos en pasado porque ya uds no estan. Nunca pude abrazarlos, ni escucharlos llorar, ni reir, ni nada, nunca podre llevarlos a comer helado. mi corazòn tiene un agujero tan profundo.
 
