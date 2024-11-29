@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sobre mí on Silas blog</title>
-    <link>https://silasblog.me/about/</link>
+    <link>http://localhost:1313/about/</link>
     <description>Recent content in Sobre mí on Silas blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language><atom:link href="https://silasblog.me/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

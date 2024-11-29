@@ -1,6 +1,7 @@
 ---
 title: "Sobre mí"
 description: "Conoce más sobre Silas R"
+url: "/about/"
 draft: false
 ---
 
