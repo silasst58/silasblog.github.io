@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Blog de Silas</title>
+    <link>https://example.org/post/</link>
+    <description>Recent content in Posts on Blog de Silas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 28 Nov 2024 19:51:53 -0500</lastBuildDate><atom:link href="https://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bienvenidos</title>
+      <link>https://example.org/post/bienvenidos/</link>
+      <pubDate>Thu, 28 Nov 2024 19:51:53 -0500</pubDate>
+      
+      <guid>https://example.org/post/bienvenidos/</guid>
+      
+      <description>Este es mi primer blog.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+theme = "hugo-blog-awesome"
+languageCode = 'es'
+title = 'Blog de Silas'
