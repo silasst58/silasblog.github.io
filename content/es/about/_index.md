@@ -1,6 +1,7 @@
 ---
 title: "Sobre mí"
 description: "Conoce más sobre Silas R"
+draft: false
 ---
 
 # Sobre mí
@@ -13,4 +14,3 @@ Soy **Silas R**, una persona multifacética con intereses variados:
 - Finalmente, soy un **escritor casi frustrado**, buscando siempre palabras para dar forma a las ideas que rondan mi mente.
 
 Este blog es mi forma de conectar con otros y compartir las cosas que me apasionan. ¡Gracias por visitar!
-
