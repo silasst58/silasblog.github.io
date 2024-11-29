@@ -1,11 +1,8 @@
----
-title: "Sobre mí"
-description: "Conoce más sobre Silas R"
-url: "/about/"
-draft: false
----
-
-# Sobre mí
++++
+title = 'About'
+date = 2024-11-28T21:45:08-05:00
+draft = false
++++
 
 Soy **Silas R**, una persona multifacética con intereses variados:
 
