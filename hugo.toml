@@ -2,10 +2,10 @@ title = "Blog de Silas"
 baseURL = 'https://silasblog.me'
 
 # This is what goes in <html lang="">
-languageCode = 'en-us'
+languageCode = 's'
 
 # This defines how dates are formatted
-defaultContentLanguage = "en-gb"
+defaultContentLanguage = "es"
 
 # Enable emojis globally
 enableEmoji = true
