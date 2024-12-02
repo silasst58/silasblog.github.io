@@ -1,6 +1,6 @@
 +++
 title = 'El Final De Narnia'
-date = "2024-12-01"
+date = "2024-01-12"
 draft = false
 +++
 Después de muchos años, finalmente he terminado de leer el último libro de Narnia, he leído toda la saga en diferentes ocasiones. Me acompañó en mi adolescencia hasta mi vida adulta, Y siempre recomendare los libros a cualquiera que inicie en el mundo de la lectura. La verdad es que soy un lector casual, Me gustaría poder leer varios libros en un mes. Pero ya estamos a final del año, y no sé cuántos libros he leído. y sì he leído un par obligatoriamente por el seminario. Lecturas obligatorias semanalmente para hacer un reporte de lectura. Pero, regresando al tema de Narnia. me dejó con una sensación agridulce, porque no esperaba que terminara de esa manera. Cuánto más tendremos corazones rotos por diferentes sucesos que pasan en la vida, incluso en la literatura? 
