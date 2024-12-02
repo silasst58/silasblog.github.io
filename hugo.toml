@@ -59,7 +59,7 @@ theme = "hugo-blog-awesome"
     weight = 30
 
 [Languages.es.params]
-  sitename = "Blog de SIlas"
+  sitename = "Blog de Silas"
   defaultColor = "dark"
   description = "Un espacio para compartir de todo un poco"
   mainSections = ['posts']
@@ -67,7 +67,11 @@ theme = "hugo-blog-awesome"
   tocOpen = false
   goToTop = true
   additionalScripts = ['js/custom.js', 'js/custom-2.js']
-  dateFormat = "2 de enero de 2006"
+
+  # Configuración de formato de fecha
+  dateFormat = "2 de enero de 2006" # Formato de fecha para posts
+
+  # Parámetros del feed RSS
   rssFeedDescription = "summary"
 
 [Languages.es.params.author]
@@ -75,6 +79,7 @@ theme = "hugo-blog-awesome"
   intro = "Silas blog"
   name = "Silas R"
   description = "Maestría en Artes de Estudios Bíblicos (en proceso), desarrollador de software, aficionado al software libre (GNU/Linux), y un escritor casi frustrado."
+
 [Languages.es.params.webmanifest]
   name = "sitename"
   short_name = "sitename"
